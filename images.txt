@@ -2,3 +2,4 @@ searxng/searxng
 jiangrui1994/cloudsaver
 redis
 valkey/valkey
+mysql
